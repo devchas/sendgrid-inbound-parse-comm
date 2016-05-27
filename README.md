@@ -14,7 +14,7 @@ The following steps are required to begin parsing email:
 
 ## Resources
 
-[SendGrid Inbound Parse Webhook](https://sendgrid.com/docs/API_Reference/Webhooks/parse.html)
+[SendGrid Inbound Parse Webhook](https://sendgrid.com/docs/API_Reference/Webhooks/parse.html)<br>
 [SendGrid Node.js Library](https://github.com/sendgrid/sendgrid-nodejs)
 
 
